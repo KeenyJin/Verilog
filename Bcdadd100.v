@@ -1,3 +1,5 @@
+// Assume that module 'bcd_fadd' is defined.
+
 module top_module( 
     input [399:0] a, b,
     input cin,
